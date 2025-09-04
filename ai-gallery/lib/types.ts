@@ -6,12 +6,10 @@ export interface AITool {
   screenshot: string;
   category: Category;
   url: string;
-  prompts: Prompt[];
-}
-
-export interface Prompt {
-  title: string;
-  prompt: string;
+  prompts: {
+    title: string;
+    prompt: string;
+  }[];
 }
 
 export type Category = 

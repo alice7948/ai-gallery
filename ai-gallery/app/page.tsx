@@ -19,7 +19,7 @@ export default function Home() {
 
   useEffect(() => {
     setTimeout(() => {
-      setTools(toolsData.tools)
+      setTools(toolsData.tools as AITool[])
       setLoading(false)
     }, 500)
   }, [])

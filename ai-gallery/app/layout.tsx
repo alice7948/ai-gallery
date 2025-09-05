@@ -5,8 +5,23 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AI Gallery - AIツールキュレーション',
-  description: '最新AIツールを発見し、活用するためのキュレーションサイト',
+  title: 'AI Gallery - 最新AIツールを発見し、活用するためのキュレーションサイト',
+  description: '50以上の最新AIツールを厳選。画像生成、文章作成、コード支援など、用途別に整理されたAIツールとプロンプト例を提供。',
+  keywords: 'AI, AIツール, ChatGPT, Claude, Midjourney, 画像生成AI, 文章生成AI, プロンプト',
+  openGraph: {
+    title: 'AI Gallery',
+    description: '最新AIツールのキュレーションサイト',
+    url: 'https://ai-gallery-b5kv.vercel.app',
+    siteName: 'AI Gallery',
+    locale: 'ja_JP',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'AI Gallery',
+    description: '最新AIツールを発見しよう',
+  },
+  robots: 'index, follow',
 }
 
 export default function RootLayout({

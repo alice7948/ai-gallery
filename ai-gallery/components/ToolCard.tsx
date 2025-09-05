@@ -13,7 +13,7 @@ interface ToolCardProps {
 
 export function ToolCard({ tool, isFavorite, onToggleFavorite }: ToolCardProps) {
   return (
-    <div className="bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden group cursor-pointer border border-gray-100">
+    <div className="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 overflow-hidden group cursor-pointer border border-gray-100">
       <Link href={`/tools/${tool.id}`} className="block">
         <div className="relative h-48 overflow-hidden">
           <Image
@@ -22,7 +22,7 @@ export function ToolCard({ tool, isFavorite, onToggleFavorite }: ToolCardProps) 
             fill
             className="object-cover group-hover:scale-105 transition-transform duration-300"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/30 via-black/10 to-transparent" />
           <button
             onClick={(e) => {
               e.preventDefault();

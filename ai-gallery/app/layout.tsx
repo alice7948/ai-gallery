@@ -35,7 +35,7 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body className={inter.className}>
-        <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-50">
+        <div className="min-h-screen bg-gray-50">
           {children}
         </div>
         <footer className="bg-white border-t border-gray-200 py-8 mt-16">

@@ -5,7 +5,7 @@ import { Sparkles } from 'lucide-react'
 
 export function Header() {
   return (
-    <header className="bg-white shadow-sm border-b border-gray-200">
+    <header className="bg-white shadow-md backdrop-blur-lg bg-opacity-95 border-b border-gray-200">
       <div className="container mx-auto px-4 py-6">
         <Link href="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
           <div className="bg-gradient-to-r from-blue-600 to-indigo-600 p-2 rounded-lg">

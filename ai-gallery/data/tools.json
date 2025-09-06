@@ -5,7 +5,7 @@
       "name": "Claude",
       "description": "Anthropic社の高性能対話型AI。複雑なタスクに対応",
       "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://claude.ai",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://claude.ai",
       "prompts": [
@@ -28,7 +28,7 @@
       "name": "ChatGPT",
       "description": "OpenAI社の汎用対話AI。幅広いタスクをこなします",
       "logo": "https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://chat.openai.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://chat.openai.com",
       "prompts": [
@@ -51,7 +51,7 @@
       "name": "Midjourney",
       "description": "高品質なAI画像生成ツール。アーティスティックな画像を作成",
       "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://midjourney.com",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://midjourney.com",
       "prompts": [
@@ -74,7 +74,7 @@
       "name": "GitHub Copilot",
       "description": "AIプログラミングアシスタント。コード補完と生成をサポート",
       "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://github.com/features/copilot",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://github.com/features/copilot",
       "prompts": [
@@ -97,7 +97,7 @@
       "name": "Perplexity",
       "description": "リアルタイム検索機能付きAI。最新情報にアクセス可能",
       "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://perplexity.ai",
+      "screenshot": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "data-analysis",
       "url": "https://perplexity.ai",
       "prompts": [
@@ -120,7 +120,7 @@
       "name": "Gemini",
       "description": "Google製の最新AI。マルチモーダル対応で画像理解も可能",
       "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://gemini.google.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://gemini.google.com",
       "prompts": [
@@ -143,7 +143,7 @@
       "name": "DALL-E 3",
       "description": "OpenAI製の高品質画像生成AI。ChatGPT Plusで利用可能",
       "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://openai.com/dall-e-3",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://openai.com/dall-e-3",
       "prompts": [
@@ -166,7 +166,7 @@
       "name": "Stable Diffusion",
       "description": "オープンソースの画像生成AI。無料で高品質な画像を生成",
       "logo": "https://www.google.com/s2/favicons?domain=stability.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://stability.ai",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://stability.ai",
       "prompts": [
@@ -189,7 +189,7 @@
       "name": "Cursor",
       "description": "AIを搭載した次世代コードエディタ。コード補完と生成が超高速",
       "logo": "https://www.google.com/s2/favicons?domain=cursor.sh&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://cursor.sh",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://cursor.sh",
       "prompts": [
@@ -212,7 +212,7 @@
       "name": "v0",
       "description": "Vercel製のUI生成AI。テキストからReactコンポーネントを即座に生成",
       "logo": "https://www.google.com/s2/favicons?domain=v0.dev&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://v0.dev",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://v0.dev",
       "prompts": [
@@ -235,7 +235,7 @@
       "name": "Leonardo AI",
       "description": "ゲーム素材やコンセプトアートに特化した画像生成AI",
       "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://leonardo.ai",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://leonardo.ai",
       "prompts": [
@@ -258,7 +258,7 @@
       "name": "Notion AI",
       "description": "Notion内で使えるAI。文書作成、要約、翻訳など多機能",
       "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://notion.so",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://notion.so",
       "prompts": [
@@ -281,7 +281,7 @@
       "name": "ElevenLabs",
       "description": "最高品質の音声生成AI。自然な音声とクローン機能",
       "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://elevenlabs.io",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://elevenlabs.io",
       "prompts": [
@@ -304,7 +304,7 @@
       "name": "Gamma",
       "description": "AIでプレゼンテーションを自動生成。デザインも内容も全自動",
       "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://gamma.app",
+      "screenshot": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
       "category": "other",
       "url": "https://gamma.app",
       "prompts": [
@@ -327,7 +327,7 @@
       "name": "Poe",
       "description": "複数のAIモデルを切り替えて使えるプラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=poe.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://poe.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://poe.com",
       "prompts": [
@@ -350,7 +350,7 @@
       "name": "Microsoft Copilot",
       "description": "Microsoft製の統合型AI。Office連携や画像生成も可能",
       "logo": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://copilot.microsoft.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://copilot.microsoft.com",
       "prompts": [
@@ -369,7 +369,7 @@
       "name": "Jasper AI",
       "description": "マーケティング特化の文章生成AI。SEO最適化も対応",
       "logo": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://jasper.ai",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://jasper.ai",
       "prompts": [
@@ -388,7 +388,7 @@
       "name": "Writesonic",
       "description": "AIライティングツール。記事生成やコピーライティングに強い",
       "logo": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://writesonic.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://writesonic.com",
       "prompts": [
@@ -407,7 +407,7 @@
       "name": "Copy.ai",
       "description": "コピーライティング専門AI。広告やSNS投稿に最適",
       "logo": "https://www.google.com/s2/favicons?domain=copy.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://copy.ai",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://copy.ai",
       "prompts": [
@@ -426,7 +426,7 @@
       "name": "Character AI",
       "description": "キャラクターと会話できるAI。創作や学習に活用可能",
       "logo": "https://www.google.com/s2/favicons?domain=character.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://character.ai",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://character.ai",
       "prompts": [
@@ -445,7 +445,7 @@
       "name": "You.com",
       "description": "AI検索エンジン。最新情報を含む回答を生成",
       "logo": "https://www.google.com/s2/favicons?domain=you.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://you.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://you.com",
       "prompts": [
@@ -464,7 +464,7 @@
       "name": "QuillBot",
       "description": "文章のリライトと要約に特化したAI",
       "logo": "https://www.google.com/s2/favicons?domain=quillbot.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://quillbot.com",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://quillbot.com",
       "prompts": [
@@ -483,7 +483,7 @@
       "name": "DeepL Write",
       "description": "DeepLの文章校正AI。自然な文章に改善",
       "logo": "https://www.google.com/s2/favicons?domain=deepl.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://deepl.com/write",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://deepl.com/write",
       "prompts": [
@@ -502,7 +502,7 @@
       "name": "Rytr",
       "description": "多言語対応のAIライティングアシスタント",
       "logo": "https://www.google.com/s2/favicons?domain=rytr.me&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://rytr.me",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://rytr.me",
       "prompts": [
@@ -521,7 +521,7 @@
       "name": "Lex",
       "description": "AIアシスト付きのライティングエディタ",
       "logo": "https://www.google.com/s2/favicons?domain=lex.page&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://lex.page",
+      "screenshot": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       "category": "text-generation",
       "url": "https://lex.page",
       "prompts": [
@@ -540,7 +540,7 @@
       "name": "Ideogram",
       "description": "テキスト描画に優れた画像生成AI",
       "logo": "https://www.google.com/s2/favicons?domain=ideogram.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://ideogram.ai",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://ideogram.ai",
       "prompts": [
@@ -559,7 +559,7 @@
       "name": "Playground AI",
       "description": "無料で使える高品質画像生成プラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=playgroundai.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://playgroundai.com",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://playgroundai.com",
       "prompts": [
@@ -578,7 +578,7 @@
       "name": "Bing Image Creator",
       "description": "Microsoft製の画像生成AI。DALL-E 3技術を使用",
       "logo": "https://www.google.com/s2/favicons?domain=bing.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://www.bing.com/create",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://www.bing.com/create",
       "prompts": [
@@ -597,7 +597,7 @@
       "name": "Adobe Firefly",
       "description": "Adobe製の商用利用可能な画像生成AI",
       "logo": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://firefly.adobe.com",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://firefly.adobe.com",
       "prompts": [
@@ -616,7 +616,7 @@
       "name": "Lexica",
       "description": "Stable Diffusion特化の画像検索・生成プラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=lexica.art&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://lexica.art",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://lexica.art",
       "prompts": [
@@ -635,7 +635,7 @@
       "name": "NightCafe",
       "description": "多様なAIモデルを使える画像生成プラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=nightcafe.studio&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://nightcafe.studio",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://nightcafe.studio",
       "prompts": [
@@ -654,7 +654,7 @@
       "name": "Artbreeder",
       "description": "画像を混ぜ合わせて新しい画像を生成するAI",
       "logo": "https://www.google.com/s2/favicons?domain=artbreeder.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://artbreeder.com",
+      "screenshot": "https://images.unsplash.com/photo-1686191128892-3f38286d7c45?w=600&h=400&fit=crop",
       "category": "image-generation",
       "url": "https://artbreeder.com",
       "prompts": [
@@ -673,7 +673,7 @@
       "name": "Kaiber",
       "description": "AIによる動画生成プラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=kaiber.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://kaiber.ai",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://kaiber.ai",
       "prompts": [
@@ -692,7 +692,7 @@
       "name": "Replit",
       "description": "AI搭載のオンライン開発環境。コード生成と実行が可能",
       "logo": "https://www.google.com/s2/favicons?domain=replit.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://replit.com",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://replit.com",
       "prompts": [
@@ -711,7 +711,7 @@
       "name": "Codeium",
       "description": "無料のAIコード補完ツール。VSCodeなど各種エディタ対応",
       "logo": "https://www.google.com/s2/favicons?domain=codeium.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://codeium.com",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://codeium.com",
       "prompts": [
@@ -730,7 +730,7 @@
       "name": "Tabnine",
       "description": "AIによるコード自動補完。チーム向け機能も充実",
       "logo": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://tabnine.com",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://tabnine.com",
       "prompts": [
@@ -749,7 +749,7 @@
       "name": "Amazon CodeWhisperer",
       "description": "AWS製のAIコーディングアシスタント",
       "logo": "https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://aws.amazon.com/codewhisperer",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://aws.amazon.com/codewhisperer",
       "prompts": [
@@ -768,7 +768,7 @@
       "name": "Mintlify",
       "description": "コードから自動でドキュメントを生成するAI",
       "logo": "https://www.google.com/s2/favicons?domain=mintlify.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://mintlify.com",
+      "screenshot": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
       "category": "code-assistant",
       "url": "https://mintlify.com",
       "prompts": [
@@ -787,7 +787,7 @@
       "name": "Murf AI",
       "description": "プロ品質のAI音声生成サービス",
       "logo": "https://www.google.com/s2/favicons?domain=murf.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://murf.ai",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://murf.ai",
       "prompts": [
@@ -806,7 +806,7 @@
       "name": "Descript",
       "description": "AI搭載の動画・音声編集ツール",
       "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://descript.com",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://descript.com",
       "prompts": [
@@ -825,7 +825,7 @@
       "name": "Synthesia",
       "description": "AIアバターによる動画生成プラットフォーム",
       "logo": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://synthesia.io",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://synthesia.io",
       "prompts": [
@@ -844,7 +844,7 @@
       "name": "Runway",
       "description": "クリエイター向けAI動画編集・生成ツール",
       "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://runwayml.com",
+      "screenshot": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=600&h=400&fit=crop",
       "category": "audio-video",
       "url": "https://runwayml.com",
       "prompts": [
@@ -863,7 +863,7 @@
       "name": "Julius AI",
       "description": "データ分析と可視化に特化したAI",
       "logo": "https://www.google.com/s2/favicons?domain=julius.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://julius.ai",
+      "screenshot": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "data-analysis",
       "url": "https://julius.ai",
       "prompts": [
@@ -882,7 +882,7 @@
       "name": "Rows AI",
       "description": "AI搭載のスプレッドシート。データ分析自動化",
       "logo": "https://www.google.com/s2/favicons?domain=rows.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://rows.com",
+      "screenshot": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "data-analysis",
       "url": "https://rows.com",
       "prompts": [
@@ -901,7 +901,7 @@
       "name": "Obviously AI",
       "description": "ノーコードで機械学習モデルを構築",
       "logo": "https://www.google.com/s2/favicons?domain=obviously.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://obviously.ai",
+      "screenshot": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "data-analysis",
       "url": "https://obviously.ai",
       "prompts": [
@@ -920,7 +920,7 @@
       "name": "Polymer Search",
       "description": "AIによるビジネスインテリジェンスツール",
       "logo": "https://www.google.com/s2/favicons?domain=polymersearch.com&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://polymersearch.com",
+      "screenshot": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       "category": "data-analysis",
       "url": "https://polymersearch.com",
       "prompts": [
@@ -939,7 +939,7 @@
       "name": "Tome",
       "description": "AIによるストーリーテリング型プレゼン作成",
       "logo": "https://www.google.com/s2/favicons?domain=tome.app&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://tome.app",
+      "screenshot": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
       "category": "other",
       "url": "https://tome.app",
       "prompts": [
@@ -958,7 +958,7 @@
       "name": "Beautiful.AI",
       "description": "デザインを自動化するプレゼンテーションツール",
       "logo": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://beautiful.ai",
+      "screenshot": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
       "category": "other",
       "url": "https://beautiful.ai",
       "prompts": [
@@ -977,7 +977,7 @@
       "name": "Otter.ai",
       "description": "会議の文字起こしと要約を自動化",
       "logo": "https://www.google.com/s2/favicons?domain=otter.ai&sz=64",
-      "screenshot": "https://image.thum.io/get/width/600/crop/400/https://otter.ai",
+      "screenshot": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop",
       "category": "other",
       "url": "https://otter.ai",
       "prompts": [

@@ -5,7 +5,7 @@
       "name": "Claude",
       "description": "Anthropic社の高性能対話型AI。複雑なタスクに対応",
       "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=64",
-      "screenshot": "https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Claude",
+      "screenshot": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg",
       "category": "text-generation",
       "url": "https://claude.ai",
       "prompts": [
@@ -28,7 +28,7 @@
       "name": "ChatGPT",
       "description": "OpenAI社の汎用対話AI。幅広いタスクをこなします",
       "logo": "https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64",
-      "screenshot": "https://via.placeholder.com/600x400/10a37f/ffffff?text=ChatGPT",
+      "screenshot": "https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg",
       "category": "text-generation",
       "url": "https://chat.openai.com",
       "prompts": [
@@ -51,7 +51,7 @@
       "name": "Midjourney",
       "description": "高品質なAI画像生成ツール。アーティスティックな画像を作成",
       "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=64",
-      "screenshot": "https://via.placeholder.com/600x400/4c51bf/ffffff?text=Midjourney",
+      "screenshot": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg",
       "category": "image-generation",
       "url": "https://midjourney.com",
       "prompts": [
@@ -74,7 +74,7 @@
       "name": "GitHub Copilot",
       "description": "AIプログラミングアシスタント。コード補完と生成をサポート",
       "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
-      "screenshot": "https://via.placeholder.com/600x400/24292e/ffffff?text=GitHub+Copilot",
+      "screenshot": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg",
       "category": "code-assistant",
       "url": "https://github.com/features/copilot",
       "prompts": [
@@ -120,7 +120,7 @@
       "name": "Gemini",
       "description": "Google製の最新AI。マルチモーダル対応で画像理解も可能",
       "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64",
-      "screenshot": "https://via.placeholder.com/600x400/4285f4/ffffff?text=Gemini",
+      "screenshot": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS.width-1300.jpg",
       "category": "text-generation",
       "url": "https://gemini.google.com",
       "prompts": [

@@ -1,0 +1,39 @@
+name: Update Tool Screenshots
+
+on:
+  workflow_dispatch:  # 手動実行
+  schedule:
+    - cron: '0 0 * * 0'  # 毎週日曜日に自動実行（オプション）
+
+jobs:
+  update-screenshots:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        cd ai-gallery
+        npm install
+    
+    - name: Update screenshots
+      run: |
+        cd ai-gallery
+        node scripts/update-screenshots.js
+      env:
+        SCREENSHOT_API_KEY: ${{ secrets.SCREENSHOT_API_KEY }}
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add ai-gallery/data/tools.json
+        git diff --staged --quiet || git commit -m "Update tool screenshots [skip ci]"
+        git push
